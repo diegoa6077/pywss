@@ -24,3 +24,4 @@ Notes and usage details for pywss.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
