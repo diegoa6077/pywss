@@ -29,3 +29,4 @@ Notes and usage details for pywss.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
